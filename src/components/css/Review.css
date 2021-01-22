@@ -1,0 +1,12 @@
+.Review{
+	margin: 2rem 0rem;
+}
+
+.Review .card{
+	box-shadow: 5px 5px #D3D3D3;
+}
+
+.Review .card-body{
+	background: #E44D26;  /* fallback for old browsers */
+	color: white
+}

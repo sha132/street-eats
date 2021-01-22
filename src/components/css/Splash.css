@@ -1,0 +1,68 @@
+.Splash {
+ background: url('https://c1.staticflickr.com/5/4115/35573434052_ef568fbf96_b.jpg');
+ background-size: cover;
+ background-position: center
+}
+
+.Splash .container{
+	padding-bottom: 3rem
+}
+
+.Splash .primary-text {
+	text-transform: uppercase;
+	font-size: 9rem;
+  font-weight: 900;
+	color: white;
+	padding: 1rem 4rem;
+	text-shadow: 4px 4px #E44D26;
+}
+
+.Splash .secondary-text {
+	text-transform: uppercase;
+	font-size: 3rem;
+  font-weight: 700;
+	color: white;
+	padding: 15px 20px 5px;
+	text-align: center;
+}
+
+.paragraph-text{
+	margin: 1rem;
+	color: white;
+	font-weight: 500;
+	font-size: 1.1rem
+}
+
+.Splash .food-test{
+	width:100%;
+	border-radius: 3px;
+}
+
+.Splash .col-4{
+	margin: 0;
+	padding: 0
+}
+
+.Splash .profile{
+	background: #E44D26;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #F16529, #E44D26);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #F16529, #E44D26); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	text-align: left;
+}
+
+.Splash .testimonials{
+	background: #E44D26;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #F16529, #E44D26);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #F16529, #E44D26); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	text-align: left;
+  margin-top: 2rem
+}
+
+.Splash .secondary-text-testimonials {
+	text-transform: uppercase;
+	font-size: 2rem;
+  font-weight: 700;
+	color: white;
+	padding: 15px 20px 5px;
+	text-align: center;
+}
